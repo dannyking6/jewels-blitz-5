@@ -1,0 +1,12 @@
+img/Bot_Level_Passed.png
+img/Bot_Overall_Score_Beaten.png
+img/Gift_Random_Booster_EN.png
+img/Msg_First_Highscore.png
+img/Msg_Friend_Beaten.png
+img/Msg_Gate_Key.png
+img/Msg_Gate_Request.png
+img/Msg_Life.png
+img/Msg_Life_Request.png
+img/Msg_Wow.png
+img/Share_Missions_Complete.png
+img/Share_TreasureHunt_Complete.png

@@ -1,0 +1,18 @@
+{
+  "platform": "gamesnacks",
+  "gameSlug": "jewels-blitz-5",
+  "gameBuild": "1.1.2",
+  "gameTitle": "Jewels Blitz 5",
+  "interface": "FBInstant",
+  "leaderboardSupport": false,
+  "inAppPurchase": false,
+  "addShortcut": true,
+  "adsConfig": {
+    "adFreeInitialLevels": 0,
+    "interstitialCooldownLevel": 0,
+    "longGameplayCooldownMS": 150000,
+    "enableLongGameplayAds": true,
+    "rewarded": true,
+    "supportsAdPlayButton": false
+  }
+}
